@@ -1,4 +1,4 @@
-# Distributed data analytics with Spark
+# Distributed data analytics with Apache Spark
 This Spark-based code is run at the A-Fog (Analytics Fog) tier in our proposed multi-layer stream and big data analytics platform to perform large-scale parking occupancy analytics (carpark-based hourly average) based on the long-term parking data stored in its HDFS.
 <br />
 
